@@ -1,4 +1,20 @@
 # Express Assignment
+
+express-assignment/
+│-- routes/
+│    ├── userRoutes.js
+│    ├── productRoutes.js
+│-- middleware/
+│    ├── logger.js
+│    ├── errorHandler.js
+│-- controllers/
+│    ├── userController.js
+│    ├── productController.js
+│-- index.js
+│-- package.json
+│-- README.md
+│-- .env
+
 ## Setup
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
