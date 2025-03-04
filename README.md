@@ -1,4 +1,18 @@
 # Express Assignment
+# Schematics
+│-- routes/
+│    ├── userRoutes.js
+│    ├── productRoutes.js
+│-- middleware/
+│    ├── logger.js
+│    ├── errorHandler.js
+│-- controllers/
+│    ├── userController.js
+│    ├── productController.js
+│-- index.js
+│-- package.json
+│-- README.md
+│-- .env
 
 express-assignment/
 │-- routes/
